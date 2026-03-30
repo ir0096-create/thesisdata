@@ -1,0 +1,23 @@
+Variable,Variable Label,Dimension,Factor,Data Type
+q1,What age group do you fall into?,Profiling,Demographics,Categorical
+q2,To which gender do you identify most with?,Profiling,Demographics,Categorical
+q3,What is your total household income before taxes?,Profiling,Demographics,Scalar
+q4,What region of Japan do you primarily live in?,Profiling,Demographics,Categorical
+q5,How often do you drink coffee?,DV,Tendency to consume,Scalar
+q6,What coffee beverage do you usually drink?,Preference,Preference,Categorical
+q7,How often do you drink matcha?,DV,Tendency to consume,Scalar
+q8,What matcha beverage do you usually drink?,Preference,Preference,Categorical
+q9,"When choosing between coffee and matcha, what factors influence your choice most? (Select up to two)",Preference,Preference,Categorical
+q10,"When choosing between coffee and matcha, what factors influence your choice most? (Select up to two)",Preference,Preference,Categorical
+q11,How do you usually consume these drinks? (Select all that apply),Locations,Purchase Locations,Categorical
+q12,How do you usually consume these drinks? (Select all that apply),Locations,Purchase Locations,Categorical
+q13,How do you usually consume these drinks? (Select all that apply),Locations,Purchase Locations,Categorical
+q14,How do you usually consume these drinks? (Select all that apply),Locations,Purchase Locations,Categorical
+q15,How often do you visit cafés?,DV,Tendency to consume,Scalar
+q16,What is your main reason for visiting a café?,Locations,Purchase Locations,Categorical
+q17,"In your opinion, what makes a good café experience?",Preference,Purchase Locations,Categorical
+q18,Do you associate coffee with any particular culture or image?,DV,Coffee Beliefs,Categorical
+q19,Do you associate matcha with any particular culture or image?,DV,Matcha Beliefs,Categorical
+q20,How strongly do you agree with the following statements: Coffee feels like part of the modern Japanese lifestyle.,DV,Coffee Beliefs,Ordinal
+q21,How strongly do you agree with the following statements: Matcha feels connected to Japanese heritage and tradition.,DV,Matcha Beliefs,Ordinal
+q22,How strongly do you agree with the following statements: Cafés are important social spaces in Japan.,DV,Coffee Beliefs,Ordinal
